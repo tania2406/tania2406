@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @tania2406
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...# 💫 About Me:
+💫 About Me:
  👨‍🎓 I'm a *2nd Year BCA Student*<br>- 💬 Ask me about anything, I will be grateful  to help.<br>- 🌱 I'm currently learning:<br>  -Amazon AWS <br>  -Java Springboot and Hibernate	<br>- 📬 How to reach me:<br>    { taniaprasad4@gmail.com }<br>
 
 
