@@ -1,4 +1,4 @@
-💫 About Me:
+💫 About Me:<br>-
  👨‍🎓 I'm a *2nd Year BCA Student*<br>- 💬 Ask me about anything, I will be grateful  to help.<br>- 🌱 I'm currently learning:<br>  -Amazon AWS <br>  -Java Springboot and Hibernate	<br>- 📬 How to reach me:<br>    { taniaprasad4@gmail.com }<br>
 
 
@@ -17,11 +17,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tania2406&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 tania2406/tania2406 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
